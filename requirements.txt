@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+Flask-JWT-Extended
+bcrypt
+pandas
+openpyxl
+python-docx
+comtypes
+pywin32
+PyPDF2
